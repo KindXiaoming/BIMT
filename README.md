@@ -14,26 +14,24 @@ The examples used in this paper are relatively small-scale. We make our codes as
 
 With BIMT, neural networks are trained to be become more modular and interpretable, e.g.,
 
-Two moon classification:
+Two Moon:
 
-https://github.com/KindXiaoming/BIMT/assets/23551623/420e8323-220d-4371-98c8-ab8e88108d05
+https://github.com/KindXiaoming/BIMT/assets/23551623/f3c8b32d-72de-4fba-9209-430037709546
 
 Modular addition:
 
-https://github.com/KindXiaoming/BIMT/assets/23551623/4fdcee5e-14d9-4239-8707-5e03c42215b4
+https://github.com/KindXiaoming/BIMT/assets/23551623/a9fddbb2-481b-482a-976e-6a5234f48881
 
 Permutation group S4:
 
-https://github.com/KindXiaoming/BIMT/assets/23551623/906ca5c4-54b4-45ab-b749-5c0d29972de4
+https://github.com/KindXiaoming/BIMT/assets/23551623/588b8368-94c4-43ae-a29c-5248ab765a61
+
 
 Symbolic formulas:
 
-https://github.com/KindXiaoming/BIMT/assets/23551623/8d7825d1-7a96-41d0-9b7c-defffb30c610
+https://github.com/KindXiaoming/BIMT/assets/23551623/0abda470-60a8-46a4-9e61-5775fce49d9a
 
-https://github.com/KindXiaoming/BIMT/assets/23551623/37c92b9e-43b4-43cf-815f-ac35814b8cf7
+https://github.com/KindXiaoming/BIMT/assets/23551623/f5640f41-619a-4e71-a2b3-2ef738f423e3
 
-https://github.com/KindXiaoming/BIMT/assets/23551623/98bf50c7-ae80-413a-bda3-118d2960722a
-
-
-
+https://github.com/KindXiaoming/BIMT/assets/23551623/39c2f3fb-1ec9-4849-b588-fee2054bb6e5
 
