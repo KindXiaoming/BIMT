@@ -12,6 +12,28 @@ The examples used in this paper are relatively small-scale. We make our codes as
 |In-context linear reg | Figure 7 | incontext_3.4 |
 | MNIST | Figure 8 | mnist_3.5 |
 
-With BIMT, neural networks are trained to be become more modular, e.g.,
+With BIMT, neural networks are trained to be become more modular and interpretable, e.g.,
+
+Two moon classification:
+
+https://github.com/KindXiaoming/BIMT/assets/23551623/420e8323-220d-4371-98c8-ab8e88108d05
+
+Modular addition:
+
+https://github.com/KindXiaoming/BIMT/assets/23551623/4fdcee5e-14d9-4239-8707-5e03c42215b4
+
+Permutation group S4:
+
+https://github.com/KindXiaoming/BIMT/assets/23551623/906ca5c4-54b4-45ab-b749-5c0d29972de4
+
+Symbolic formulas:
+
+https://github.com/KindXiaoming/BIMT/assets/23551623/8d7825d1-7a96-41d0-9b7c-defffb30c610
+
+https://github.com/KindXiaoming/BIMT/assets/23551623/37c92b9e-43b4-43cf-815f-ac35814b8cf7
+
+https://github.com/KindXiaoming/BIMT/assets/23551623/98bf50c7-ae80-413a-bda3-118d2960722a
+
+
 
 
